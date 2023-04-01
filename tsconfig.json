@@ -21,6 +21,8 @@
 			"@assets/*": ["./assets/*"],
 			"@components/*": ["./components/*"],
 			"@hooks/*": ["./hooks/*"],
+			"@types/*": ["./types/*"],
+			"@typings/*": ["./typings/*"],
 			"@interfaces/*": ["./interfaces/*"],
 			"@pages/*": ["./pages/*"],
 			"@stores/*": ["./stores/*"],
