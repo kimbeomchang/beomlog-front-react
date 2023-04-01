@@ -1,9 +1,9 @@
 import React from 'react';
 
-import { DarkModeButton } from '@components/Button/DarkMode';
-import { SearchButton } from '@components/Button/Search';
-import { SignButton } from '@components/Button/Sign';
-import Logo from '@components/Logo';
+import { DarkModeButton } from './DarkMode';
+import Logo from './Logo';
+import { SearchButton } from './Search';
+import { SignButton } from './Sign';
 
 export const Header: React.FC = () => {
 	return (
