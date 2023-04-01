@@ -1,12 +1,9 @@
 import React from 'react';
 
+import { Routes } from './routes';
+
 const App: React.FC = () => {
-	return (
-		<div>
-			<h1 className="text-3xl font-bold underline text-center">beomlog</h1>
-			<p>App.tsx</p>
-		</div>
-	);
+	return <Routes />;
 };
 
 export default App;
