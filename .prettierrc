@@ -18,6 +18,8 @@
 		"^@apis/(.*)$",
 		"^@utils/(.*)$",
 		"^@hooks/(.*)$",
+		"^@types/(.*)$",
+		"^@typings/(.*)$",
 		"^@interfaces/(.*)$",
 		"^@assets/(.*)$",
 		"^@components/(.*)$",
